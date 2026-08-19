@@ -29,7 +29,7 @@ Dataset characteristics:
 - NumPy
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebook
+
 
 ---
 
